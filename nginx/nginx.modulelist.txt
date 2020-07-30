@@ -1,0 +1,6 @@
+-rwxr-xr-x. 1 root root  24600 Oct  3  2019 ngx_http_image_filter_module.so
+-rwxr-xr-x. 1 root root  24528 Oct  3  2019 ngx_http_perl_module.so
+-rwxr-xr-x. 1 root root  24576 Oct  3  2019 ngx_http_xslt_filter_module.so
+-rwxr-xr-x. 1 root root 101368 Oct  3  2019 ngx_mail_module.so
+-rwxr-xr-x. 1 root root 174848 Oct  3  2019 ngx_stream_module.so
+
